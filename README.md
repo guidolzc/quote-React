@@ -52,7 +52,7 @@ import React from 'react';
 function Header(){
     return(
         <div className="App">
-            <h1> ELLA NO TE AMA </h1>
+            <h1> Hellos react </h1>
 
         </div>
     );
